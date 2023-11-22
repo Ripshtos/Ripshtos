@@ -13,10 +13,15 @@ Here's a little bit about me:
 I'm a Full Stack Developer with over 5 years of hands-on experience in the world of software development. My journey has taken me through various projects, each contributing to my growth and skill set. I thrive on challenges and enjoy turning ideas into practical, efficient solutions.
 
 **My Tech Stack 🚀**
+
 **Frontend:** HTML, CSS, JavaScript, React
+
 **Backend:** Node.js, Express.js
+
 **Database:** MongoDB, MySQL
+
 **Tools & Platforms:** Git, GitHub, VS Code
+
 **Other Technologies:** RESTful APIs
 
 **Let's Connect! 🌐**
