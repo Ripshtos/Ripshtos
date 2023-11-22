@@ -8,5 +8,5 @@ This is the place where I post my tiny projects
 - 👨‍💻 Currently working in a tech proxy startUp 
   
 
- ✨  About Me
+** ✨  About Me **
 I am a Full Stack Developer with 5+ years of experience in developing.
