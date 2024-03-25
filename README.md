@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world 👋
 
 Welcome to my GitHub profile! I'm passionate about coding and constantly exploring new technologies.
 Here's a little bit about me:
