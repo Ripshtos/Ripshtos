@@ -19,7 +19,7 @@ I'm a Full Stack Developer with over 5 years of experience in the world of softw
 
 **Database:** MongoDB, MySQL
 
-**Tools & Platforms:** Git, GitHub, VS Code
+**Tools & Platforms:** Git, Docker, K8S
 
 **Other Technologies:** RESTful APIs
 
