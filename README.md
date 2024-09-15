@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about coding and constantly exploring new technologies.
 Here's a little bit about me:
 
-- 🌱 Currently in my 2nd year of Computer Science, I'm dedicated to expanding my knowledge and staying up-to-date with the latest trends in the tech world.
+- 🌱 Currently in my third year of Computer Science, I'm dedicated to expanding my knowledge and staying up-to-date with the latest trends in the tech world.
 - 💬 Ask me about anything related to Node.js. I love diving deep into server-side development and crafting efficient, scalable solutions.
 - 👨‍💻 I am currently contributing my skills to a tech proxy startup, where I'm part of a dynamic team working on cutting-edge technologies.
   
