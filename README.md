@@ -9,7 +9,7 @@ Here's a little bit about me:
   
 ### About me ✨
 
-I'm a software developer with over 5 years of experience in the world of software development. My journey has taken me through various projects, each contributing to my growth and skill set. I thrive on challenges and enjoy turning ideas into practical, efficient solutions.
+I'm a software developer with over 5 years of experience. My journey has taken me through various projects, each contributing to my growth and skill set. I thrive on challenges and enjoy turning ideas into practical, efficient solutions.
 
 **My Tech Stack 🚀**
 
