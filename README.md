@@ -13,7 +13,7 @@ I'm a software developer with over 5 years of experience. My journey has taken m
 
 **My Tech Stack 🚀**
 
-**Frontend:** HTML, CSS, JavaScript, React
+**Frontend:** HTML, Tailwind, JavaScript, React 
 
 **Backend:** Node.js, Express.js
 
